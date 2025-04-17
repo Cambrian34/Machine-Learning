@@ -141,7 +141,7 @@ def generate(model, start_text, length=100, temperature=0.8):
 
 # Try generating some text
 print("\n--- Sample ---")
-start_text = "pussy"
+start_text = "p"#testing words to see what words are are in the dataset
 #lowercase
 start_text = start_text.lower()
 print(generate(model, start_text, length=100))

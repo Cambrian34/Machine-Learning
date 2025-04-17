@@ -1,0 +1,33 @@
+# Machine Learning Project
+
+This project is designed to explore and implement various machine learning algorithms and techniques.
+
+## Requirements
+
+To install the required dependencies, run:
+```
+pip install -r requirements.txt
+```
+
+## Files
+
+- `requirements.txt`: Contains the list of dependencies for the project.
+
+
+## Usage
+
+1. Install the dependencies.
+2. Run the scripts or notebooks to explore the machine learning models.
+
+
+## Datasets Used
+- LibriSpeech ASR corpus
+- Data scraped from story websites(Choose websites that didnt have any copyright issues or robots.txt)
+- defaultdict 
+
+
+
+
+## License
+
+
